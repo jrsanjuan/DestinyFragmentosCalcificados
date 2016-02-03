@@ -1,2 +1,2 @@
 # DestinyFragmentosCalcificados
-A tool for the Spanish community of Destiny.
+A web tool for the Spanish community of Destiny.
