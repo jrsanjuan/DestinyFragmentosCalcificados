@@ -1,0 +1,352 @@
+{
+  "700680": {
+    "description": "I: Predators",
+    "number": "1",
+    "location": "Mausoleum",
+    "activity": "Patrol",
+    "video": "https://www.youtube.com/watch?v=8tD3GuXMXd4"
+  },
+  "700690": {
+    "description": "II: The Hateful Verse",
+    "number": "2",
+    "location": "Mausoleum",
+    "activity": "Patrol",
+    "video": "https://www.youtube.com/watch?v=1_p1rHiEQPM"
+  },
+  "700700": {
+    "description": "III: The Oath",
+    "number": "3",
+    "location": "Mausoleum",
+    "activity": "Patrol",
+    "video": "https://www.youtube.com/watch?v=XNaapnoAjuQ"
+  },
+  "700710": {
+    "description": "IV: Syzygy",
+    "number": "4",
+    "location": "Mausoleum",
+    "activity": "Patrol",
+    "video": "https://www.youtube.com/watch?v=g9dbXnQY74s"
+  },
+  "700720": {
+    "description": "V: Needle and Worm",
+    "number": "5",
+    "location": "Hull Breach",
+    "activity": "Patrol",
+    "video": "https://www.youtube.com/watch?v=RivgZw1os-o"
+  },
+  "700730": {
+    "description": "VI: Sisters ",
+    "number": "6",
+    "location": "Hull Breach",
+    "activity": "Patrol",
+    "video": "https://www.youtube.com/watch?v=bhTOr7MH93U"
+  },
+  "700740": {
+    "description": "VII",
+    "number": "7",
+    "location": "Hull Breach",
+    "activity": "Patrol",
+    "video": "https://www.youtube.com/watch?v=CwIJCbHxbW0"
+  },
+  "700750": {
+    "description": "VIII: Leviathan",
+    "number": "8",
+    "location": "Hull Breach",
+    "activity": "Patrol",
+    "video": "https://www.youtube.com/watch?v=N5QBguINXxU"
+  },
+  "700760": {
+    "description": "IX: The Bargain",
+    "number": "9",
+    "location": "Hull Breach",
+    "activity": "Patrol",
+    "video": "https://www.youtube.com/watch?v=DrD9VIhR0Gg"
+  },
+  "700770": {
+    "description": "X: Immortals ",
+    "number": "10",
+    "location": "Hall of Souls",
+    "activity": "Patrol",
+    "video": "https://www.youtube.com/watch?v=v1EUjoDbLG0"
+  },
+  "700780": {
+    "description": "XI: Conquerors",
+    "number": "11",
+    "location": "Hall of Souls",
+    "activity": "Patrol",
+    "video": "https://www.youtube.com/watch?v=6Cm_qoIPN-E"
+  },
+  "700790": {
+    "description": "XII: Out of the Deep",
+    "number": "12",
+    "location": "Hall of Souls",
+    "activity": "Patrol",
+    "video": "https://www.youtube.com/watch?v=X3JJviHevUw"
+  },
+  "700800": {
+    "description": "XIII: Into the Sky",
+    "number": "13",
+    "location": "Hall of Souls",
+    "activity": "Patrol",
+    "video": "https://www.youtube.com/watch?v=IVl5aRUf2pc"
+  },
+  "700810": {
+    "description": "XIV: 52 and One",
+    "number": "14",
+    "location": "Trenchway",
+    "activity": "Patrol",
+    "video": "https://www.youtube.com/watch?v=2LQjLsTgym4"
+  },
+  "700820": {
+    "description": "XV: Born As Prey",
+    "number": "15",
+    "location": "Trenchway",
+    "activity": "Patrol",
+    "video": "https://www.youtube.com/watch?v=6az5SCNBX4o"
+  },
+  "700830": {
+    "description": "XVI: The Sword Logic",
+    "number": "16",
+    "location": "Trenchway",
+    "activity": "Patrol",
+    "video": "https://www.youtube.com/watch?v=GlgZUns9zd4"
+  },
+  "700840": {
+    "description": "XVII: The Weakness Verse",
+    "number": "17",
+    "location": "Trenchway",
+    "activity": "Patrol",
+    "video": "https://www.youtube.com/watch?v=rcuMFvYl-8I"
+  },
+  "700850": {
+    "description": "XVIII: Leviathan Rises ",
+    "number": "18",
+    "location": "Regicide",
+    "activity": "Mission",
+    "video": "https://www.youtube.com/watch?v=uf52QqKcdsE"
+  },
+  "700860": {
+    "description": "XIX: Crusaders",
+    "number": "19",
+    "location": "Trenchway",
+    "activity": "Patrol",
+    "video": "https://www.youtube.com/watch?v=C1clHyffJKk"
+  },
+  "700870": {
+    "description": "XX: Hive ",
+    "number": "20",
+    "location": "Trenchway",
+    "activity": "Patrol",
+    "video": "https://www.youtube.com/watch?v=TUEncLPNzEg"
+  },
+  "700880": {
+    "description": "XXI: an incision",
+    "number": "21",
+    "location": "Mausoleum",
+    "activity": "Patrol",
+    "video": "https://www.youtube.com/watch?v=6LJcn3AeenU"
+  },
+  "700890": {
+    "description": "XXII: The High War",
+    "number": "22",
+    "location": "Mausoleum",
+    "activity": "Patrol",
+    "video": "https://www.youtube.com/watch?v=zZGSN7fKvq8"
+  },
+  "700900": {
+    "description": "XXIII: fire without fuel",
+    "number": "23",
+    "location": "Mausoleum",
+    "activity": "Patrol",
+    "video": "https://www.youtube.com/watch?v=eLKK95eJIKE"
+  },
+  "700910": {
+    "description": "XXIV: THE SCREAM",
+    "number": "24",
+    "location": "Regicide",
+    "activity": "Mission",
+    "video": "https://www.youtube.com/watch?v=o1Wm2b6XE5k"
+  },
+  "700920": {
+    "description": "XXV: Dictata ir Dakaua",
+    "number": "25",
+    "location": "Regicide",
+    "activity": "Mission",
+    "video": "https://www.youtube.com/watch?v=nNwQcZ3QgZA"
+  },
+  "700930": {
+    "description": "XXVI: star by star by star",
+    "number": "26",
+    "location": "The Sunless Cell",
+    "activity": "Strike",
+    "video": "https://www.youtube.com/watch?v=KZezJeLWoho"
+  },
+  "700940": {
+    "description": "XXVII: Eat the Sky",
+    "number": "27",
+    "location": "Regicide",
+    "activity": "Mission",
+    "video": "https://www.youtube.com/watch?v=FelSvk4eibc"
+  },
+  "700950": {
+    "description": "XXVIII: King of Shapes",
+    "number": "28",
+    "location": "Shield Brothers",
+    "activity": "Strike",
+    "video": "https://www.youtube.com/watch?v=SpXELWBQEzI"
+  },
+  "700960": {
+    "description": "XXIX: Carved in Ruin",
+    "number": "29",
+    "location": "King's Fall",
+    "activity": "",
+    "video": "https://www.youtube.com/watch?v=xhVVt_Mfz_g"
+  },
+  "700970": {
+    "description": "XXX: a golden amputation",
+    "number": "30",
+    "location": "King's Fall",
+    "activity": "Basilica",
+    "video": "https://www.youtube.com/watch?v=5TwYyZ9JlXI"
+  },
+  "700980": {
+    "description": "XXXI: battle made waves",
+    "number": "31",
+    "location": "King's Fall",
+    "activity": "Golgoroth's Cellar",
+    "video": "https://www.youtube.com/watch?v=OXAJ1A6w9io"
+  },
+  "700990": {
+    "description": "XXXII: Majestic. Majestic.",
+    "number": "32",
+    "location": "King's Fall",
+    "activity": "Pending",
+    "video": "https://www.youtube.com/watch?v=jNC9UJgI2oQ"
+  },
+  "701000": {
+    "description": "XXXIII: When do monsters have dreams",
+    "number": "33",
+    "location": "King's Fall",
+    "activity": "2nd jumping puzzle",
+    "video": "https://www.youtube.com/watch?v=QPETS_jDOOA"
+  },
+  "701010": {
+    "description": "XXXIV: More beautiful to know",
+    "number": "34",
+    "location": "Mausoleum",
+    "activity": "Scent",
+    "video": "https://www.youtube.com/watch?v=VQ2B0GFNag0"
+  },
+  "701020": {
+    "description": "XXXV: This Love Is War",
+    "number": "35",
+    "location": "Hall of Souls",
+    "activity": "Consumption",
+    "video": "https://www.youtube.com/watch?v=5nuoUtQc_gE"
+  },
+  "701030": {
+    "description": "XXXVI: Eater of Hope",
+    "number": "36",
+    "location": "Hall of Souls",
+    "activity": "Founts",
+    "video": "https://www.youtube.com/watch?v=79Kt1dxjj9c"
+  },
+  "701040": {
+    "description": "XXXVII: shapes : points",
+    "number": "37",
+    "location": "Mausoleum",
+    "activity": "Skyburners",
+    "video": "https://www.youtube.com/watch?v=keDTpBP510U"
+  },
+  "701050": {
+    "description": "XXXVIII: The partition of death",
+    "number": "38",
+    "location": "Random (see below)",
+    "activity": "Wormsinger",
+    "video": "https://www.youtube.com/watch?v=RypyNAyCMB0"
+  },
+  "701060": {
+    "description": "XXXIX: open your eye : go into it",
+    "number": "39",
+    "location": "Court of Oryx T2",
+    "activity": "Lokaar",
+    "video": "https://www.youtube.com/watch?v=ZD33_Ps9u28"
+  },
+  "701070": {
+    "description": "XL: An Emperor For All Outcomes",
+    "number": "40",
+    "location": "Court of Oryx T2",
+    "activity": "Bracus Horu’usk",
+    "video": "https://www.youtube.com/watch?v=DgVwl3hvA44"
+  },
+  "701080": {
+    "description": "XLI: Dreadnaught",
+    "number": "41",
+    "location": "Court of Oryx T2",
+    "activity": "Cra’adug and Mengoor",
+    "video": "https://www.youtube.com/watch?v=xBAMdYOU4hk"
+  },
+  "701090": {
+    "description": "XLII: <>|<>|<>",
+    "number": "42",
+    "location": "Court of Oryx T2",
+    "activity": "Vorlog",
+    "video": "https://www.youtube.com/watch?v=QYWINiEQxz8"
+  },
+  "701100": {
+    "description": "XLIII: End of Failed Timeline",
+    "number": "43",
+    "location": "Court of Oryx T2?",
+    "activity": "Krughor?",
+    "video": ""
+  },
+  "701110": {
+    "description": "XLIV: strict proof eternal",
+    "number": "44",
+    "location": "Court of Oryx T2?",
+    "activity": "Alzok Dal, Gornuk Dal and Zyrok Dal?",
+    "video": ""
+  },
+  "701120": {
+    "description": "XLV: I'd shut them all in cells.",
+    "number": "45",
+    "location": "Undiscovered",
+    "activity": "",
+    "video": ""
+  },
+  "701130": {
+    "description": "XLVI: The Gift Mast",
+    "number": "46",
+    "location": "Nightfall completion",
+    "activity": "Strike",
+    "video": "https://www.youtube.com/watch?v=FRGLuSNPObI"
+  },
+  "701140": {
+    "description": "XLVII: Apocalypse Refrains",
+    "number": "47",
+    "location": "Court of Oryx T3",
+    "activity": "Thalknok, Fanatic of Crota (Week 2)",
+    "video": "https://www.youtube.com/watch?v=j7wOMbqK-l0"
+  },
+  "701150": {
+    "description": "XLVIII: aiat, aiat, aiat, aiat, aiat",
+    "number": "48",
+    "location": "Undiscovered",
+    "activity": "",
+    "video": "https://www.youtube.com/watch?v=F5YaboSchrY"
+  },
+  "701160": {
+    "description": "XLIX: Forever And A Blade",
+    "number": "49",
+    "location": "Court of Oryx T3",
+    "activity": "(Week 1)",
+    "video": "https://www.youtube.com/watch?v=l5-YlGso7ug"
+  },
+  "701170": {
+    "description": "L: Wormfood",
+    "number": "50",
+    "location": "Court of Oryx",
+    "activity": "Quest",
+    "video": "https://www.youtube.com/watch?v=LwcHJ7T6fq4"
+  }
+}

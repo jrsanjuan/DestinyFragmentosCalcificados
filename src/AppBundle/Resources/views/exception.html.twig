@@ -1,0 +1,19 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+
+	<div class="jumbotron text-center">
+		<h2>404</h2>
+		<h1 id="form-title">
+			{% if message == 'Guardian' %}
+				Guardián no encontrado
+			{% else %}
+				Not Found
+			{% endif %}
+		</h1>
+		<h3><a href="{{ path('app') }}">Volver</a></h3>
+    </div>
+
+	{% include "@App/footer.html.twig" %}
+
+{% endblock %}

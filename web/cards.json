@@ -1,0 +1,352 @@
+{
+  "700680": {
+    "description": "I: Predators",
+    "number": "1",
+    "location": "Mausoleo",
+    "activity": "Patrulla",
+    "video": "https://www.youtube.com/watch?v=8tD3GuXMXd4"
+  },
+  "700690": {
+    "description": "II: The Hateful Verse",
+    "number": "2",
+    "location": "Mausoleo",
+    "activity": "Patrulla",
+    "video": "https://www.youtube.com/watch?v=1_p1rHiEQPM"
+  },
+  "700700": {
+    "description": "III: The Oath",
+    "number": "3",
+    "location": "Mausoleo",
+    "activity": "Patrulla",
+    "video": "https://www.youtube.com/watch?v=XNaapnoAjuQ"
+  },
+  "700710": {
+    "description": "IV: Syzygy",
+    "number": "4",
+    "location": "Mausoleo",
+    "activity": "Patrulla",
+    "video": "https://www.youtube.com/watch?v=g9dbXnQY74s"
+  },
+  "700720": {
+    "description": "V: Needle and Worm",
+    "number": "5",
+    "location": "Brecha del Casco",
+    "activity": "Patrulla",
+    "video": "https://www.youtube.com/watch?v=RivgZw1os-o"
+  },
+  "700730": {
+    "description": "VI: Sisters ",
+    "number": "6",
+    "location": "Brecha del Casco",
+    "activity": "Patrulla",
+    "video": "https://www.youtube.com/watch?v=bhTOr7MH93U"
+  },
+  "700740": {
+    "description": "VII",
+    "number": "7",
+    "location": "Brecha del Casco",
+    "activity": "Patrulla",
+    "video": "https://www.youtube.com/watch?v=CwIJCbHxbW0"
+  },
+  "700750": {
+    "description": "VIII: Leviathan",
+    "number": "8",
+    "location": "Brecha del Casco",
+    "activity": "Patrulla",
+    "video": "https://www.youtube.com/watch?v=N5QBguINXxU"
+  },
+  "700760": {
+    "description": "IX: The Bargain",
+    "number": "9",
+    "location": "Brecha del Casco",
+    "activity": "Patrulla",
+    "video": "https://www.youtube.com/watch?v=DrD9VIhR0Gg"
+  },
+  "700770": {
+    "description": "X: Immortals ",
+    "number": "10",
+    "location": "Sala de las Almas",
+    "activity": "Patrulla",
+    "video": "https://www.youtube.com/watch?v=v1EUjoDbLG0"
+  },
+  "700780": {
+    "description": "XI: Conquerors",
+    "number": "11",
+    "location": "Sala de las Almas",
+    "activity": "Patrulla",
+    "video": "https://www.youtube.com/watch?v=6Cm_qoIPN-E"
+  },
+  "700790": {
+    "description": "XII: Out of the Deep",
+    "number": "12",
+    "location": "Sala de las Almas",
+    "activity": "Patrulla",
+    "video": "https://www.youtube.com/watch?v=X3JJviHevUw"
+  },
+  "700800": {
+    "description": "XIII: Into the Sky",
+    "number": "13",
+    "location": "Sala de las Almas",
+    "activity": "Patrulla",
+    "video": "https://www.youtube.com/watch?v=IVl5aRUf2pc"
+  },
+  "700810": {
+    "description": "XIV: 52 and One",
+    "number": "14",
+    "location": "La Fosa",
+    "activity": "Patrulla",
+    "video": "https://www.youtube.com/watch?v=2LQjLsTgym4"
+  },
+  "700820": {
+    "description": "XV: Born As Prey",
+    "number": "15",
+    "location": "La Fosa",
+    "activity": "Patrulla",
+    "video": "https://www.youtube.com/watch?v=6az5SCNBX4o"
+  },
+  "700830": {
+    "description": "XVI: The Sword Logic",
+    "number": "16",
+    "location": "La Fosa",
+    "activity": "Patrulla",
+    "video": "https://www.youtube.com/watch?v=GlgZUns9zd4"
+  },
+  "700840": {
+    "description": "XVII: The Weakness Verse",
+    "number": "17",
+    "location": "La Fosa",
+    "activity": "Patrulla",
+    "video": "https://www.youtube.com/watch?v=rcuMFvYl-8I"
+  },
+  "700850": {
+    "description": "XVIII: Leviathan Rises ",
+    "number": "18",
+    "location": "Regicidio",
+    "activity": "Misión",
+    "video": "https://www.youtube.com/watch?v=uf52QqKcdsE"
+  },
+  "700860": {
+    "description": "XIX: Crusaders",
+    "number": "19",
+    "location": "La Fosa",
+    "activity": "Patrulla",
+    "video": "https://www.youtube.com/watch?v=C1clHyffJKk"
+  },
+  "700870": {
+    "description": "XX: Hive ",
+    "number": "20",
+    "location": "La Fosa",
+    "activity": "Patrulla",
+    "video": "https://www.youtube.com/watch?v=TUEncLPNzEg"
+  },
+  "700880": {
+    "description": "XXI: an incision",
+    "number": "21",
+    "location": "Mausoleo",
+    "activity": "Patrulla",
+    "video": "https://www.youtube.com/watch?v=6LJcn3AeenU"
+  },
+  "700890": {
+    "description": "XXII: The High War",
+    "number": "22",
+    "location": "Las Fuentes",
+    "activity": "Patrulla",
+    "video": "https://www.youtube.com/watch?v=zZGSN7fKvq8"
+  },
+  "700900": {
+    "description": "XXIII: fire without fuel",
+    "number": "23",
+    "location": "Las Fuentes",
+    "activity": "Patrulla",
+    "video": "https://www.youtube.com/watch?v=eLKK95eJIKE"
+  },
+  "700910": {
+    "description": "XXIV: THE SCREAM",
+    "number": "24",
+    "location": "Regicidio",
+    "activity": "Misión",
+    "video": "https://www.youtube.com/watch?v=o1Wm2b6XE5k"
+  },
+  "700920": {
+    "description": "XXV: Dictata ir Dakaua",
+    "number": "25",
+    "location": "Regicidio",
+    "activity": "Misión",
+    "video": "https://www.youtube.com/watch?v=nNwQcZ3QgZA"
+  },
+  "700930": {
+    "description": "XXVI: star by star by star",
+    "number": "26",
+    "location": "La Celda Sin Sol",
+    "activity": "Asalto",
+    "video": "https://www.youtube.com/watch?v=KZezJeLWoho"
+  },
+  "700940": {
+    "description": "XXVII: Eat the Sky",
+    "number": "27",
+    "location": "Regicidio",
+    "activity": "Misión",
+    "video": "https://www.youtube.com/watch?v=FelSvk4eibc"
+  },
+  "700950": {
+    "description": "XXVIII: King of Shapes",
+    "number": "28",
+    "location": "Hermanos Escudo",
+    "activity": "Asalto",
+    "video": "https://www.youtube.com/watch?v=SpXELWBQEzI"
+  },
+  "700960": {
+    "description": "XXIX: Carved in Ruin",
+    "number": "29",
+    "location": "Caída del Rey",
+    "activity": "Incursión (Pórtico)",
+    "video": "https://www.youtube.com/watch?v=xhVVt_Mfz_g"
+  },
+  "700970": {
+    "description": "XXX: a golden amputation",
+    "number": "30",
+    "location": "Caída del Rey",
+    "activity": "Incursión (Basílica)",
+    "video": "https://www.youtube.com/watch?v=5TwYyZ9JlXI"
+  },
+  "700980": {
+    "description": "XXXI: battle made waves",
+    "number": "31",
+    "location": "Caída del Rey",
+    "activity": "Incursión (Sótano de Golgoroth)",
+    "video": "https://www.youtube.com/watch?v=OXAJ1A6w9io"
+  },
+  "700990": {
+    "description": "XXXII: Majestic. Majestic.",
+    "number": "32",
+    "location": "Caída del Rey",
+    "activity": "Incursión (Después de Golgoroth)",
+    "video": "https://www.youtube.com/watch?v=jNC9UJgI2oQ"
+  },
+  "701000": {
+    "description": "XXXIII: When do monsters have dreams",
+    "number": "33",
+    "location": "Caída del Rey",
+    "activity": "Incursión (Crucero)",
+    "video": "https://www.youtube.com/watch?v=QPETS_jDOOA"
+  },
+  "701010": {
+    "description": "XXXIV: More beautiful to know",
+    "number": "34",
+    "location": "Mausoleo",
+    "activity": "Patrulla (Olor de Gusano)",
+    "video": "https://www.youtube.com/watch?v=VQ2B0GFNag0"
+  },
+  "701020": {
+    "description": "XXXV: This Love Is War",
+    "number": "35",
+    "location": "Sala de las Almas",
+    "activity": "Patrulla (Consumo Poseído)",
+    "video": "https://www.youtube.com/watch?v=5nuoUtQc_gE"
+  },
+  "701030": {
+    "description": "XXXVI: Eater of Hope",
+    "number": "36",
+    "location": "Las Fuentes",
+    "activity": "Patrulla (Runa de Agonarca)",
+    "video": "https://www.youtube.com/watch?v=79Kt1dxjj9c"
+  },
+  "701040": {
+    "description": "XXXVII: shapes : points",
+    "number": "37",
+    "location": "Mausoleo",
+    "activity": "Patrulla (Código de seguridad)",
+    "video": "https://www.youtube.com/watch?v=keDTpBP510U"
+  },
+  "701050": {
+    "description": "XXXVIII: The partition of death",
+    "number": "38",
+    "location": "Sala de las Almas",
+    "activity": "Patrulla (Llave de Yuul)",
+    "video": "https://www.youtube.com/watch?v=RypyNAyCMB0"
+  },
+  "701060": {
+    "description": "XXXIX: open your eye : go into it",
+    "number": "39",
+    "location": "Corte de Oryx T2",
+    "activity": "Lokaar & Vorlog",
+    "video": "https://www.youtube.com/watch?v=ZD33_Ps9u28"
+  },
+  "701070": {
+    "description": "XL: An Emperor For All Outcomes",
+    "number": "40",
+    "location": "Corte de Oryx T2",
+    "activity": "Bracus & Cra'Adug & Mengoor",
+    "video": "https://www.youtube.com/watch?v=DgVwl3hvA44"
+  },
+  "701080": {
+    "description": "XLI: Dreadnaught",
+    "number": "41",
+    "location": "Corte de Oryx T2",
+    "activity": "Krughor & Mengoor & Cra'Adug",
+    "video": "https://www.youtube.com/watch?v=xBAMdYOU4hk"
+  },
+  "701090": {
+    "description": "XLII: <>|<>|<>",
+    "number": "42",
+    "location": "Corte de Oryx T2",
+    "activity": "Krughor & Vorlog",
+    "video": "https://www.youtube.com/watch?v=QYWINiEQxz8"
+  },
+  "701100": {
+    "description": "XLIII: End of Failed Timeline",
+    "number": "43",
+    "location": "Caída del Rey",
+    "activity": "Incursión (Desafío del Sacerdote)",
+    "video": ""
+  },
+  "701110": {
+    "description": "XLIV: Strict proof eternal",
+    "number": "44",
+    "location": "Caída del Rey",
+    "activity": "Incursión (Desafío de Golgoroth)",
+    "video": ""
+  },
+  "701120": {
+    "description": "XLV: I'd shut them all in cells.",
+    "number": "45",
+    "location": "Desconocido",
+    "activity": "¿?",
+    "video": ""
+  },
+  "701130": {
+    "description": "XLVI: The Gift Mast",
+    "number": "46",
+    "location": "La Celda Sin Sol",
+    "activity": "Asalto (Completar)",
+    "video": "https://www.youtube.com/watch?v=FRGLuSNPObI"
+  },
+  "701140": {
+    "description": "XLVII: Apocalypse Refrains",
+    "number": "47",
+    "location": "Corte de Oryx T3",
+    "activity": "Thalknok, Fanático de Crota",
+    "video": "https://www.youtube.com/watch?v=j7wOMbqK-l0"
+  },
+  "701150": {
+    "description": "XLVIII: aiat, aiat, aiat, aiat, aiat",
+    "number": "48",
+    "location": "Corte de Oryx T3",
+    "activity": "Balwûr",
+    "video": "https://www.youtube.com/watch?v=F5YaboSchrY"
+  },
+  "701160": {
+    "description": "XLIX: Forever And A Blade",
+    "number": "49",
+    "location": "Corte de Oryx T3",
+    "activity": "Kagoor",
+    "video": "https://www.youtube.com/watch?v=l5-YlGso7ug"
+  },
+  "701170": {
+    "description": "L: Wormfood",
+    "number": "50",
+    "location": "Corte de Oryx",
+    "activity": "Contrato",
+    "video": "https://www.youtube.com/watch?v=LwcHJ7T6fq4"
+  }
+}

@@ -1,0 +1,11 @@
+app:
+    path: /
+    defaults: { _controller:AppBundle:Default:index }
+
+guardian_new:
+    path: /newguardian
+    defaults: { _controller:AppBundle:Default:newGuardian }
+
+guardian_fragments:
+    path: /{platform}/{gametarg}
+    defaults: { _controller:AppBundle:Default:findCalcifiedFragments }

@@ -1,0 +1,32 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+
+    <div class="jumbotron text-center">
+        <h1 id="form-title">Destiny Fragmentos Calcificados</h1>
+
+        <form class="form-horizontal" role="form" method="post" action="{{ path('guardian_new') }}">
+            <div class="form-group">
+                <div class="col-sm-4 fragment-form">
+                    <input type="text" class="form-control" name="gametarg" placeholder="Gametarg" required="">
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-sm-4 fragment-form">
+                    <select class="form-control" name="platform">
+                        <option>Playstation</option>
+                        <option>Xbox</option>
+                    </select>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-sm-6 fragment-form">
+                    <p><button type="submit" class="btn btn-large btn-primary">¡Buscar!</button></p>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    {% include "@App/footer.html.twig" %}
+
+{% endblock %}
